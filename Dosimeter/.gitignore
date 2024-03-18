@@ -1,0 +1,8 @@
+/ses/Output/
+/ses/*.jlink
+/ses/*.emSession
+/components/
+/external/
+/external_tools/
+/integration/
+/modules/
